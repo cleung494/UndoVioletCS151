@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1dc2efc6-c8f4-4b24-a926-502e6472cbed" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/violet_0_16c.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UndoViolet.iml" afterPath="$PROJECT_DIR$/UndoViolet.iml" />
     </list>
+=======
+    <list default="true" id="1dc2efc6-c8f4-4b24-a926-502e6472cbed" name="Default" comment="" />
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
     <ignored path="UndoViolet.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,6 +30,7 @@
     <favorites_list name="UndoViolet" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file leaf-file-name="UndoViolet.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UndoViolet.iml">
@@ -48,6 +53,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +65,7 @@
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,6 +80,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
+=======
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
     <option name="height" value="800" />
@@ -110,27 +121,40 @@
               <option name="myItemId" value="UndoViolet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
+=======
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="UndoViolet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UndoVioletCS151" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
           </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../cs146/Projects/algos/QuickSort_Part2" />
   </component>
+=======
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -263,6 +287,7 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UndoViolet.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -369,4 +394,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> ef4100195330d778a9e9d5bc0a2ce932390f39a6
 </project>

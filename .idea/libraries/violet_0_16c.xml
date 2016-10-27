@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="violet-0.16c">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/violet-0.16c.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+Week 1
+
+Reports for all team members: 
+Wiki doc with features:
+Issues: 
+Code and build script: 
